@@ -1,116 +1,92 @@
 # Hey, I'm Mohammed Tharick! 👋
 
-### Aspiring Web Developer | JavaScript Learner | Building My Way Into Tech 🚀
+### Aspiring Web Developer | JavaScript Learner 🚀
 
-Welcome to my GitHub profile! I'm passionate about web development, problem-solving, and turning ideas into functional web applications.
+I'm passionate about web development, problem-solving, and building useful web applications. This GitHub profile is where I document my learning journey, practice coding, and turn concepts into real projects.
 
-I use this space to document my learning journey, practice programming, build projects, and continuously improve my development skills. My goal is to become a skilled web developer by learning the fundamentals, writing better code, and building real-world applications.
+My goal is to strengthen my fundamentals, write clean code, and grow into a skilled full-stack web developer.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **JavaScript, React, and modern web development**
-- 💻 Practicing problem-solving and strengthening my programming fundamentals
-- 🛠️ Building projects to apply what I learn in practice
-- 📚 Exploring clean code, responsive design, and reusable components
-- 🎯 Goal: Become a skilled full-stack web developer
-- 🤝 Interested in collaborating on beginner-friendly open-source projects
-- ⚡ Belief: Consistency beats perfection. Learn, build, improve, repeat.
+- 🌱 Learning JavaScript, React, and modern web development
+- 💻 Practicing problem-solving and JavaScript coding challenges
+- 🎨 Building responsive and user-friendly web interfaces
+- 🔧 Exploring APIs and backend development
+- 🎯 Working towards becoming a full-stack developer
+- 🤝 Open to learning and collaborating on projects
+- ⚡ Learn. Build. Debug. Improve. Repeat.
 
 ---
 
 ## 🧰 Tech Stack
 
-### Languages & Web Fundamentals
+**Languages & Fundamentals**
 
-<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,js](https://skillicons.dev/icons?i=html,css,js)" alt="HTML, CSS, JavaScript" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Tools & Development Environment
+**Tools**
 
-<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,vscode](https://skillicons.dev/icons?i=git,github,vscode)" alt="Git, GitHub, VS Code" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### Currently Exploring
+**Currently Learning**
 
-<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=react,nodejs,express,mongodb](https://skillicons.dev/icons?i=react,nodejs,express,mongodb)" alt="React, Node.js, Express, MongoDB" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
 ## 🚀 What I'm Working On
 
-- 📌 Strengthening my JavaScript fundamentals and problem-solving skills
-- 🎨 Building responsive and accessible web interfaces
-- ⚛️ Learning React and component-based development
-- 🔧 Exploring backend development and REST APIs
-- 🌐 Building projects that solve practical problems
+- Strengthening JavaScript fundamentals and ES6+ concepts
+- Solving programming challenges to improve my logic
+- Building responsive websites with HTML and CSS
+- Learning React and component-based development
+- Exploring REST APIs and full-stack application development
 
 ---
 
-## 📂 My Learning Journey
+## 📚 My Learning Goals
 
-This GitHub profile is my public learning space. Here, you'll find:
-
-- **Practice:** Small exercises and coding challenges
-- **Projects:** Web applications built while learning new technologies
-- **Experiments:** Testing new concepts, tools, and development techniques
-- **Progress:** Improvements in my coding skills, project structure, and problem-solving approach
-
-I'm focused on understanding how things work instead of simply making them work.
-
----
-
-## 🎯 My Goals
-
-- [ ] Master JavaScript fundamentals and ES6+ concepts
-- [ ] Build responsive websites using HTML and CSS
-- [ ] Develop interactive applications using JavaScript
-- [ ] Build projects with React
+- [ ] Master JavaScript fundamentals
+- [ ] Improve problem-solving skills
+- [ ] Build responsive websites
+- [ ] Create interactive projects with JavaScript
+- [ ] Learn React and modern frontend development
 - [ ] Learn Node.js, Express.js, and MongoDB
-- [ ] Understand authentication, REST APIs, and database design
-- [ ] Build and deploy complete full-stack applications
+- [ ] Build and deploy full-stack applications
 - [ ] Contribute to open-source projects
-- [ ] Create a strong portfolio of real-world projects
 
 ---
 
 ## 📊 GitHub at a Glance
 
-<p>
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=codebytharick&show_icons=true&hide_border=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=codebytharick\&show_icons=true\&hide_border=true\&theme=tokyonight)" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebytharick&show_icons=true&hide_border=true&theme=tokyonight)
 
-<p>
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=codebytharick&layout=compact&hide_border=true&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=codebytharick\&layout=compact\&hide_border=true\&theme=tokyonight)" alt="Most Used Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codebytharick&layout=compact&hide_border=true&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
 
-<p>
-&#x20; <a href="[https://www.linkedin.com/in/mdtharick/](https://www.linkedin.com/in/mdtharick/)">
-&#x20;   <img src="[https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)" alt="LinkedIn" />
-&#x20; </a>
-&#x20; <a href="[https://mt-personal-portfolio.netlify.app/](https://mt-personal-portfolio.netlify.app/)">
-&#x20;   <img src="[https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge\&logo=googlechrome\&logoColor=white)" alt="Portfolio" />
-&#x20; </a>
-&#x20; <a href="mailto\:codebytharick\@gmail.com">
-&#x20;   <img src="[https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email" />
-&#x20; </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdtharick/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mt-personal-portfolio.netlify.app/)
+
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codebytharick@gmail.com)
 
 ---
 
-### 💬 A Little Reminder
+### 💡 My Philosophy
 
 > Every expert was once a beginner. Keep learning, keep building, and never stop improving.
 
-⭐ If you find something useful in my repositories, feel free to explore, learn, and connect!
+⭐ Thanks for visiting my profile. Feel free to explore my repositories and follow my journey!
 
-**Thanks for visiting my profile!** 😊
