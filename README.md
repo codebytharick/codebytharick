@@ -24,21 +24,21 @@ I use this space to document my learning journey, practice programming, build pr
 
 ### Languages & Web Fundamentals
 
-\<p>
+<p>
 &#x20; \<img src="[https://skillicons.dev/icons?i=html,css,js](https://skillicons.dev/icons?i=html,css,js)" alt="HTML, CSS, JavaScript" />
-\</p>
+</p>
 
 ### Tools & Development Environment
 
-\<p>
+<p>
 &#x20; \<img src="[https://skillicons.dev/icons?i=git,github,vscode](https://skillicons.dev/icons?i=git,github,vscode)" alt="Git, GitHub, VS Code" />
-\</p>
+</p>
 
 ### Currently Exploring
 
-\<p>
+<p>
 &#x20; \<img src="[https://skillicons.dev/icons?i=react,nodejs,express,mongodb](https://skillicons.dev/icons?i=react,nodejs,express,mongodb)" alt="React, Node.js, Express, MongoDB" />
-\</p>
+</p>
 
 ---
 
@@ -81,29 +81,29 @@ I'm focused on understanding how things work instead of simply making them work.
 
 ## 📊 GitHub at a Glance
 
-\<p>
+<p>
 &#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=codebytharick&show_icons=true&hide_border=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=codebytharick\&show_icons=true\&hide_border=true\&theme=tokyonight)" alt="GitHub Stats" />
-\</p>
+</p>
 
-\<p>
+<p>
 &#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=codebytharick&layout=compact&hide_border=true&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=codebytharick\&layout=compact\&hide_border=true\&theme=tokyonight)" alt="Most Used Languages" />
-\</p>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-\<p>
-&#x20; \<a href="[https://www.linkedin.com/in/mdtharick/](https://www.linkedin.com/in/mdtharick/)">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)" alt="LinkedIn" />
-&#x20; \</a>
-&#x20; \<a href="[https://mt-personal-portfolio.netlify.app/](https://mt-personal-portfolio.netlify.app/)">
-&#x20;   \<img src="[https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge\&logo=googlechrome\&logoColor=white)" alt="Portfolio" />
-&#x20; \</a>
-&#x20; \<a href="mailto\:codebytharick\@gmail.com">
-&#x20;   \<img src="[https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email" />
-&#x20; \</a>
-\</p>
+<p>
+&#x20; <a href="[https://www.linkedin.com/in/mdtharick/](https://www.linkedin.com/in/mdtharick/)">
+&#x20;   <img src="[https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)" alt="LinkedIn" />
+&#x20; </a>
+&#x20; <a href="[https://mt-personal-portfolio.netlify.app/](https://mt-personal-portfolio.netlify.app/)">
+&#x20;   <img src="[https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge\&logo=googlechrome\&logoColor=white)" alt="Portfolio" />
+&#x20; </a>
+&#x20; <a href="mailto\:codebytharick\@gmail.com">
+&#x20;   <img src="[https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email" />
+&#x20; </a>
+</p>
 
 ---
 
